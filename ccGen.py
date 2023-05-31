@@ -3,7 +3,7 @@ import ccard
 import random
 
 
-st.set_page_config(page_title='Nebulous CC Validator', page_icon='cc.png', layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title='CC Generator', page_icon='cc.png', layout="centered", initial_sidebar_state="auto", menu_items=None)
 def generate_credit_cards1():
     st.title('Enigmatic Credit Card Generator')
 
